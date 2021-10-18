@@ -18,11 +18,8 @@
   ![Alt Text](https://media.giphy.com/media/kiIdEozhfH4YM/giphy.gif)
 </div>
  
-##
+
   
 <div>
   <a href="https://www.linkedin.com/in/andrews-s-fernandes-441082139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-![snake gif](https://github.com/Aschull/Aschull/blob/output/github-contribution-grid-snake.gif)
-  
