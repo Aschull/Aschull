@@ -13,15 +13,10 @@
   
 <div align="center">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  
   <img height="60em" src="https://img.icons8.com/fluency/96/000000/flask.png"/>
-  
-   ![Alt Text](https://media.giphy.com/media/kiIdEozhfH4YM/giphy.gif)
-  
+  ![Alt Text](https://media.giphy.com/media/kiIdEozhfH4YM/giphy.gif)
 </div>
- 
  
 ##
   
