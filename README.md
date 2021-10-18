@@ -1,16 +1,19 @@
-### Hi there 👋
+## Bem vindo a minha masmorra. 🏰
 
-<!--
-**Aschull/Aschull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⛏️ Hoje trabalho com Back-End.
+- 📚 Estudando Python.
+- 🪓 Pronomes: Ele/Dele
+- ⚡ Fun fact: A única coisa que ganhamos sem esforço é PESO.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Aschull">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aschull&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschull&layout=compact&langs_count=7&theme=blueberry"/>
+</div>
+  
+<div align="center">
+  <img height="35em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="35em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</div>
+  
+  
