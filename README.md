@@ -1,4 +1,4 @@
-## Welcome Stranger !!! 👋
+## Hello Stranger !!! 👋
 
 <div align="center">
   
