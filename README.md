@@ -1,6 +1,6 @@
 ## Bem vindo a minha masmorra. 🏰
 
-- ⛏️ Hoje trabalho com Back-End.
+- ⛏️ Desenvolvedor Back-End.
 - 📚 Estudando Python.
 - 🪓 Pronomes: Ele/Dele
 - ⚡ Fun fact: A única coisa que ganhamos sem esforço é PESO.
