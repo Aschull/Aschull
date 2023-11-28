@@ -9,16 +9,9 @@
 
 - ⛏️ Desenvolvedor Back-End.
 - 📚 Desenvolvedor Python.
-- 📚 Desenvolvedor React em construção.
-- ⚡ Fun fact: A única coisa que ganhamos sem esforço é PESO.
+- 📚 Desenvolvedor Front-End em construção.
+  
 ##
-
-<div align="center">
-  <a href="https://github.com/Aschull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aschull&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aschull&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-
   
 <div align="center">
   <img height="35em" src="https://api.iconify.design/devicon/vscode-wordmark.svg"/>
