@@ -21,10 +21,12 @@
 
   
 <div align="center">
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="45em" src="https://api.iconify.design/simple-icons/fastapi.svg"/>
-  <img height="45em" src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"/>
+  <img height="35em" src="https://api.iconify.design/devicon/vscode-wordmark.svg"/>
+  <img height="40em" src="https://api.iconify.design/devicon/python-wordmark.svg"/>
+  <img height="45em" src="https://api.iconify.design/devicon/fastapi-wordmark.svg"/>
+  <img height="45em" src="https://api.iconify.design/devicon/rabbitmq-wordmark.svg"/>
+  <img height="45em" src="https://api.iconify.design/devicon/react-wordmark.svg"/>
+  <img height="45em" src="https://api.iconify.design/vscode-icons/file-type-js-official.svg"/>
 </div>
 
 ## 
