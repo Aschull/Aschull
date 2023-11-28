@@ -9,7 +9,7 @@
 
 - ⛏️ Desenvolvedor Back-End.
 - 📚 Desenvolvedor Python.
-- 📚 Desenvolvedor Rust em construção.
+- 📚 Desenvolvedor React em construção.
 - ⚡ Fun fact: A única coisa que ganhamos sem esforço é PESO.
 ##
 
