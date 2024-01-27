@@ -10,6 +10,7 @@
 - ⛏️ Desenvolvedor Back-End.
 - 📚 Desenvolvedor Python.
 - 📚 Desenvolvedor Front-End em construção.
+- 📚 Entusiasta do Rust-Lang.
   
 ##
   
