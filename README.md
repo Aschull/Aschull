@@ -18,8 +18,6 @@
   <img height="40em" src="https://api.iconify.design/devicon/python-wordmark.svg"/>
   <img height="45em" src="https://api.iconify.design/devicon/fastapi-wordmark.svg"/>
   <img height="45em" src="https://api.iconify.design/devicon/rabbitmq-wordmark.svg"/>
-  <img height="45em" src="https://api.iconify.design/devicon/react-wordmark.svg"/>
-  <img height="45em" src="https://api.iconify.design/vscode-icons/file-type-js-official.svg"/>
 </div>
 
 ## 
